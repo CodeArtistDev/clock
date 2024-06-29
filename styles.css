@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(135deg, #153677, #4e085f);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.dclock h1{
+    font-size: 100px;
+}
